@@ -24,8 +24,8 @@ jre:
   repository_root: ""
 memory_calculator:
   version: 2.+
-  #repository_root: "{default.repository.root}/memory-calculator/{platform}/{architecture}"
-  repository_root: "http://download.oracle.com/otn-pub/java/jdk/8u111-b14/jdk-8u111-windows-x64.exe?AuthParam=1477462251_3a8265c224c49cb3e9121b178a67d494"
+  repository_root: "{default.repository.root}/memory-calculator/{platform}/{architecture}"
+  #repository_root: "http://download.oracle.com/otn-pub/java/jdk/8u111-b14/jdk-8u111-windows-x64.exe?AuthParam=1477462251_3a8265c224c49cb3e9121b178a67d494"
 
   stack_threads: 300
   memory_sizes:
