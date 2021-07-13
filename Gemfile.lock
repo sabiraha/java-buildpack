@@ -1,7 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.4.0)
+    addressable (2.8.0)
+      public_suffix (>= 2.0.2, < 5.0)
     ast (2.3.0)
     codeclimate-test-reporter (0.6.0)
       simplecov (>= 0.7.1, < 1.0.0)
@@ -14,6 +15,7 @@ GEM
     parser (2.3.1.2)
       ast (~> 2.2)
     powerpack (0.1.1)
+    public_suffix (4.0.6)
     rainbow (2.1.0)
     rake (11.2.2)
     redcarpet (3.3.4)
